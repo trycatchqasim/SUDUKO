@@ -13,10 +13,10 @@ A **fully working Sudoku game/solver** developed using **32-bit x86 Assembly Lan
 - 🧠 Manual stack, loops, and memory-based grid processing
 
 ---
-![board up](boardup.png)
+<img src="assets/images/boardup.png" width="600" height="500" />
 
 ---
-![board down](boarddown.png)
+<img src="assets/images/boarddown.png" width="600" height="500" />
 
 ---
 
